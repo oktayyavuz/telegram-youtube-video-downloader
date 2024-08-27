@@ -33,7 +33,7 @@ Bu Telegram botu, kullanıcılara YouTube video bağlantısı göndererek videol
 4. Botu çalıştırın:
 
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ## 📚 Kullanım
